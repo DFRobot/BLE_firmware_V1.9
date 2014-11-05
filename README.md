@@ -4,7 +4,7 @@ Instructions
 
 This is DFRobot BLE firmware V1.9. It includes DFRobot BLE series product firmware:
 
-1 Bluno/r/n
+1 Bluno<br>
 2 BLE Link
 3 BLE MEGA1280
 4 BLE MEGA2560 
