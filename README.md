@@ -17,7 +17,7 @@ V1.9:
 
 Recompile BLE firmware with official protocol stack:BLE-CC254x-1.4.0  <br>
 Fix BLE name error with IOS device. <br>
-Fix wireless programme from mobile device. <br>
+Fix wireless programming passward from mobile device. <br>
 
 
 V1.9.1
@@ -27,5 +27,5 @@ Fix V1.9 setting error: Name, Tx power
 
 V1.9.2
 
-Add a version name display. <br>
-E.g. For now, when you input "AT+VERSION=?" in AT command. it will show V1.9.2
+Add a version name in AT name. <br>
+e.g. For now, when you input "AT+VERSION=?" in AT mode. it will show V1.9.2
