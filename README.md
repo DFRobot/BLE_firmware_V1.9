@@ -26,5 +26,6 @@ Fix V1.9 setting error: Name, Tx power
 
 
 V1.9.2
+
 Add a version name display.
 E.g. For now, when you input "AT+VERSION=?" in AT command. it will show V1.9.2
