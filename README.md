@@ -1,6 +1,6 @@
 BLE_firmware_V1.9
 =================
-Instruction
+Instructions
 
 This is DFRobot BLE firmware V1.9. It includes DFRobot BLE series product firmware:
 1 Bluno
@@ -11,7 +11,7 @@ This is DFRobot BLE firmware V1.9. It includes DFRobot BLE series product firmwa
 
 Website: www.dfrobot.com
 
-Update
+Update:
 
 V1.9: 
 
