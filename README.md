@@ -9,6 +9,7 @@ It includes DFRobot BLE series product firmware:<br>
 2 BLE Link  <br>
 3 BLE MEGA1280  <br>
 4 BLE MEGA2560  <br>
+5 USBBLE-LINK (BLE-Link Firmware) <br> 
 
 Website: www.dfrobot.com  <br>
 
@@ -30,3 +31,7 @@ V1.9.2 <br>
 
 Add a version name in AT name. <br>
 e.g. For now, when you input "AT+VERSION=?" in AT mode. it will show V1.9.2
+
+
+V1.9.3 <br>
+Change the default BLE device name
