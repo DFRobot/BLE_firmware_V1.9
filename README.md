@@ -31,9 +31,9 @@ V1.9.2 <br>
 
 Add a version name in AT name. <br>
 e.g. For now, when you input "AT+VERSION=?" in AT mode. it will show V1.92 <br>
-'''2014/12/30 update''': a messy code bug on Android and IOS <br>
+2014/12/30 update: a messy code bug on Android and IOS <br>
 
 
 V1.9.3 <br>
 Change the default BLE device name <br>
-'''2014/12/30''' fix messy code bug <br>
+2014/12/30 fix messy code bug <br>
