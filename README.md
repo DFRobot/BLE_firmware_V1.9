@@ -17,8 +17,8 @@ Update:<br>
 
 V1.9.4 <br>
 1 Support uppercase and lowercase input command <br>
-2 Support help mode: Try the command "AT+HELP=?", it will be a surprise
-3 Power indicator: RX led will flash, when it first get power.
+2 Support help mode: Try the command "AT+HELP=?", it will be a surprise <br>
+3 Power indicator: RX led will flash, when it first get power <br>
 
 
 V1.9.3 <br>
