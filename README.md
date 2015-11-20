@@ -9,11 +9,19 @@ It includes DFRobot BLE series product firmware:<br>
 2 BLE Link  <br>
 3 BLE MEGA1280  <br>
 4 BLE MEGA2560  <br>
-5 USBBLE-LINK (BLE-Link Firmware) <br> 
+5 USB BLE-LINK (BLE-Link Firmware) <br> 
+6 Romeo BLE (Bluno Firmware) <br>
+7 Romeo BLE mini (Bluno Firmware) <br>
+8 Bluno M3 <br>
 
 Website: www.dfrobot.com  <br>
 
-Update:<br>
+Update: 2015/11/20 <br>
+
+Add a new device: Bluno M3 <br>
+
+
+Update: 2015/2/3 <br>
 
 V1.9.4 <br>
 1 Support uppercase and lowercase input command <br>
