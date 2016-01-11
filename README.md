@@ -25,7 +25,7 @@ Update: 2016/1/11 <br>
 
 V1.9.6 <br>
 1. Exchange TX and RX indicator LED, it is same to Arduino UNO now. <br>
-2. This Firmware is an official update version based on V1.9.3. Please check the difference with V1.94. ANd let us which one do you like. <br>
+2. This Firmware is an official update version based on V1.9.3. Please check the difference with V1.94. And let us which one do you like. <br>
 
 
 V1.9.4 <br>
