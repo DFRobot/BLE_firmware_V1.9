@@ -24,12 +24,12 @@ Update: 2015/11/20 Add a new device: Bluno M3 <br>
 Update: 2016/1/11 <br>
 
 V1.9.6 <br>
-1. Exchange TX and RX indicator LED, it is same to Arduino UNO now.
-2. This Firmware is an official update version based on V1.9.3. Please check the difference with V1.94. ANd let us which one do you like.
+1. Exchange TX and RX indicator LED, it is same to Arduino UNO now. <br>
+2. This Firmware is an official update version based on V1.9.3. Please check the difference with V1.94. ANd let us which one do you like. <br>
 
 
 V1.9.4 <br>
-Note: this is a BLE firmware fork version. It adds some feastures which doesn't exist before. Let us know which one do you like.
+Note: this is a BLE firmware fork version. It adds some feastures which doesn't exist before. Let us know which one do you like. <br>
 1 Support uppercase and lowercase input command <br>
 2 Support help mode: Try the command "AT+HELP=?", it will be a surprise <br>
 3 Power indicator: RX led will flash, when it first get power <br>
