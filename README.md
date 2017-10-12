@@ -14,10 +14,12 @@ The following devices are supported with these firmware, please download the new
 7 Romeo BLE mini (Bluno Firmware) <br>
 8 Bluno M3 V2.1<br>
 9 Bluno M3 V2.2<br>
-10 USB BLE-LINK (BLE-Link Firmware for connecting with Intel Curie)
+10 Bluno Link (BLE-Link Firmware for connecting with Intel Curie, Genuino/Arduino 101)
+11 Bluno M0 br>
 
 Website: www.dfrobot.com/www.dfrobot.com.cn  <br>
 
+Update: 2017/10/14 Add Bluno M0 firemware<br>
 Update: 2017/7/14  Add BLE-Link Firmware for connecting with Intel Curie<br>
 Update: 2016/1/11  Open V1.9.6 firmware<br>
 Update: 2015/11/20 Add a new device: Bluno M3 V2.1<br>
